@@ -222,7 +222,7 @@ python app.py
 
 ---
 
-## 🐬 Beralih ke MySQL (Opsional — untuk Development Lokal)
+## Beralih ke MySQL (Opsional — untuk Development Lokal)
 
 Di `app.py`, ganti baris konfigurasi database:
 
