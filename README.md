@@ -302,3 +302,4 @@ Akun berikut sudah tersedia saat pertama kali aplikasi dijalankan:
 - Elektronik
 - Pakaian/Tekstil
 - Sparepart
+# tugas-kel-4
